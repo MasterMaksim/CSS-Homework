@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Grey+Qo&display=swap');
+
+body {
+    background-color: bisque;
+}
+
+.name {
+    text-align: center;
+    font-family: 'Grey Qo', cursive;
+    font-size: 8rem;
+    color: chocolate;
+}
+
+.ingredients {
+    border: 1px solid brown;
+    width: 50%;
+    margin: 0 auto;
+    
+}
+
+.ingredients-table {
+    border: 1px solid brown;
+    margin: 0 auto;
+    color: brown;
+}
+
+.instructions {
+    border: 1px solid brown;
+    width: 50%;
+    margin: 0 auto;
+    color: brown;
+}
+
+.appetite {
+    color: chocolate;
+    text-align: center;
+    font-family: 'Grey Qo', cursive;
+    font-size: 6rem;
+}
+
+.footer {
+    color: chocolate;
+    text-align: center;
+    font-family: 'Grey Qo', cursive;
+    font-size: 4rem;
+}
